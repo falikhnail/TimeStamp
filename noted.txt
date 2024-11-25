@@ -1,0 +1,7 @@
+Filtering pegawai sesuai jabatan
+Fitur Admin divisi =  dashboard, pegawai(disable edit dan hapus), Rekap Data, Absensi[Data Absen(action disable), Data Dinas Diluar],Overtime[Data Lembur],Cuti
+
+jabatan pegawai diganti unit
+
+table user = username, email,pasword,role(super_admin,Admin_Divisi,finance)
+Total jam kerja
